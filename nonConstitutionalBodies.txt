@@ -53,3 +53,80 @@ STATE HUMAN RIGHTS Commission
 #Secretary of commission shall exercise all administrative and financial power.
 
 *************************************************************************************
+CENTRAL INFORMATION COMMISSION
+=====================================================================================
+[Ministry of personnel]
+# Right to INFORMATION Act ,2005
+#It entertains complaints and appeals pertaining to
+             offices,
+             financial institutions,
+             public sector undertakings, etc., under the Central Government and the UTs.
+#composition : 1 CIC+ [<=10 IC |currently 6]
+#appointed by president on recommendation of committe consist of
+       PM,LOP,cabinet minister appointed by PM
+#eligiblity :person of eminence in various fields mentioned in the act and do not hold
+            office of profit
+#condition fo service : no reappointment,65yrs age
+#Annual report to centrl govt-Parliament
+
+***************************************************************************************
+STATE INFORMATION COMMISIOIN
+=======================================================================================
+#It entertains complaints and appeals pertaining to
+            offices,
+            financial institutions,
+            public sector undertakings, etc., under the concerned state government.
+#composition :1 SCIC+ <=10 SIC
+#cnetral govt decides condition .
+  no reappointment .SIC can become SCIC provide total term do not exceed 5 yrs.
+#report-state govt -legislature
+
+**************************************************************************************
+RTI Amendment 2019
+======================================================================================
+# fixed tenure of 5yrs -> central Government
+# condition of service ->downgraded
+# pension cut clause removed.
+
+***************************************************************************************
+CENTRAL VIGILANCE COMMSSION
+======================================================================================
+#preventing corruption in central government. Act passed in 2003
+#k.santhanam recommendation
+#apex vigilace institution free from executive athority.
+#composition :1+ <=2
+#service condition :4yrs,65yrs
+#appointed by president on the recommendation of 3Member committee PM,LOP,MHA
+# not eligible for further employment.
+#salary allownace same as UPSC
+#Lokpal act2013 has made Amendments to CVC and DSPE
+#cvc-president-parliament
+#Secific authority w.r.t PMLA
+
+**************************************************************************************
+WHISTLE BLOWER PROTECTION ACT,2014
+=======================================================================================
+#not applicable to SPG
+# person has to provide personal INFORMATION otherwise no action will be taken.
+    2yrs prison/30,000 fine for frivolous complaints.
+
+*************************************************************************************
+CENTRAL BUREAU OF INVESTIGATION
+=====================================================================================
+#main investigating agency of central government. derives its power from DSPE,1946.not a statute.
+    -provide assistance to cvc and lokpal.
+
+#function:CBI investigates crime of corruption, economic offences and serious
+          and organized crime other than terrorism.
+
+#motto :3I industry,impartiality and integrity.
+#current there are 7 divisions under CBI.
+#director 2yrs under cvc act 2003
+#appontment of director on the recommendation of PM,LOP,CJI?judge nominated by him.
+#CBI cvc and lokpal connection.
+#cbi academy in Gaziabad
+#can take cases in UTs suo motu but requires state govt consent to act inside state or
+  sc /hc order to do so.
+
+********************************************************************************************
+LOKPAL AND LOKAYUKT
