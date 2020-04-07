@@ -131,3 +131,7 @@ ATTORNEY GENERAL
 ***************************************************************************************************************
 ADVOCATE GENERAL OF THE state
 ===============================================================================================================
+#article 165 - """ state
+#eligibility : Judge of HC | judicial office for 10 yrs/advocate for 10 years
+
+#same as Attorney general.
