@@ -63,3 +63,48 @@ OFFICIAL LANGUAGE
 ********************************************************************************
 PUBLIC SERVICES
 ================================================================================
+# -All india -[IAS,IPS,IForestS]  paid by states, joint control
+  -Central services-
+                currently 62. indian foreign service is most prestigious.
+                GROUP A.GROUP B GAZETTED],transfer etc are published,called "officers"
+                [NON-GAZETTED GROUP C,GROUP D ,not published called "employees"
+ and state services - stateName_serviceName
+
+# sardar patel father of all india services.
+#1951 Act says the not exceeding 33% and 1/3 of IAS,IPS,IFS should be filled
+  from state seervices by promotion.
+#parliament and state legislature can make rules for condition of service and
+  can also curtail fundamental rights .central services(conduct) rules.etc.
+#article 310 states that defense,civil and all india services members holds office
+ during and pleasure of president and for states governor.
+
+#safeguards to the civil servants not defence members:
+  -will not be dismissed or removed by lower authority who appointed them.
+  -no reduction in rank without being heard and reasonable cause.
+
+#article 312 w.r.t. all india service;
+
+********************************************************************************
+RIGHTS AND LIABILITIES OF THE GOVERNMENT
+================================================================================
+# part XII makes union and states juristic[legal] persons.
+# all lands,mineral,valuable items in sea -CENTRE not State.
+# legal entity is Union of India not Govt of INDIA
+  similarly state of Madhyapradesh not govt of MP.
+#contracts : by preesident/governor/their representative and in the manner they prescribe.
+# earlier state had immunity for "sovereign" functions but not for "non-soverign"
+ but various SC judgements have pointed out that water tight compat-mentalisation
+ can not be done in two in the scenario when state is involved in so many spheres.
+ state should be liable for its functions.
+
+********************************************************************************
+SPECIAL PROVISIONS RELATED TO CERTAIN CLASSES
+================================================================================
+# list of sc/st vary state to state and UT to UT.[OBC also after 2018 CA]
+# president after consulting with the concerned governor can notify the caste
+  but inclusion and exclusion power lies with the PARLIAMENT.subsequent presidential
+  notification CANNOT do.
+#component of special provisions:
+  -reservation for sc/st in lok sabha and state legislatures.
+  -nomination of anglo-indian 2/1 in centre/state .
+  -commission for sc/st/bc.
