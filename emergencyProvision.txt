@@ -1,0 +1,25 @@
+NATIONAL EMERGENCY
+================================================================================
+#general : not simply recommedation of primeMinister It has to be cabinet decision.
+    -proclamation of emergency can be called into court on the ground of malfide.
+
+#ARTICLE 352: NATIONAL EMERGENCY due to war or extenal aggression or armed rebellion.
+  -external EMERGENCY[war\external aggression]
+  -internal EMERGENCY[else]
+  -ARTICLE 19   in case of external emergency.[article 358]
+  -except article 20 and 21 on president order.[article 359]
+  -1962,1971,1975
+
+#articlae 356: due to failure of constitutional machnery.
+  -355---->356<------365
+  -SR BOMMAI CASE:secularism and fedral basic structure of the constitution.
+
+#article 360: when threat to financial stability.
+  -not proclaimed even once.
+
+TIMELINE
+---------
+     ...1M...|...2M...|........6M.......|.......1YR.....|....3YR...|...INFINITE.........
+NE:  APPROVE.|.............AT A TIME....|................................................
+SE:  .APPROVE.........|6MONTH AT A TIME.|...............|NE/ECI NOTI|
+FE:  .APPROVE.........|...................................................................
