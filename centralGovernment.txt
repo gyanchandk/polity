@@ -1,0 +1,25 @@
+PRESIDENT
+================================================================================
+Election : by elected MPs and MLAs.
+  -value of votes=>
+    -vote of MLA=(total population of state/total elected MLA)*(1/1000);
+    -vote of MP*total MPs=total vote of MLAs.
+  -in accordance with system of proportional representaiton by single transferable
+    vote and secret ballet.
+  -(total valid votes/2)+1
+
+Qualification ,Oath and Condition
+  -citizen,>=35yrs,eligible for LS elections and do not hold office of profit.
+  -50 proposers and 50 seconders [15,000 deposition by each| forfeit if <1/6th vote].
+  -oath administered by CJI to Preserve,protect and defend the constitution.
+  -proviledge and immunity:
+    -immune from criminal proceedings.
+    -2month notice for civil proceedings.
+
+Term,Impeachment and Vacancy
+  -5yr from the date enters the office.can resign to VP.holds office untill succesor assumes the office.
+  -can be removed by Impeachment for violation of constitution 1/4th members sign the charges,14 days notice
+   and special majority.
+  -no president has been impeached so far.
+  -expiry,death,removal,resignation,disqualification=>Vacancy.
+  
